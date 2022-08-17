@@ -1,0 +1,9 @@
+@media only screen and (max-width: 820px) {
+    .container{
+        width: 648px;
+    }
+    .card{
+        margin-top: 50%;
+    }
+}
+

@@ -1,0 +1,21 @@
+@media only screen and (max-width: 540px) {
+    .container{
+        width: 100%;
+    }
+    
+    /* *Card */
+    .card{
+        width: 300px;
+        grid-template-columns: 300px;
+        grid-template-rows: 300px auto;
+        margin: 10px;
+    }
+
+    /* Card IMG */
+    .card .img{
+        background: url(/images/image-product-mobile.jpg);
+        background-size: cover;
+        border-radius: 10px 10px 0 0;
+    }
+}
+
